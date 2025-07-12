@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&family=Nunito:wght@400;700&display=swap');
+@import "tailwindcss";
+
+/* Apply Poppins as the default font, Nunito as fallback */
+body {
+  font-family: 'Poppins', 'Nunito', Arial, sans-serif;
+}
